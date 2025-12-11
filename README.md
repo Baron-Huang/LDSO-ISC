@@ -1,4 +1,4 @@
-# Whole-slide Image Trustworthy Recognition via Learnable-tensor Diagonal Sparse Optimization boosted-Instance Semi-fuzzy Clustering
+# Whole-slide Image Trustworthy Recognition via Learnable-tensor Diagonal Sparse Metric boosted-Instance Semi-fuzzy Clustering
 ## 🧔: Authors [*Corresponding author]
 Pan Huang, _Member_, _IEEE_, and Jing Qin*, _Senior Member_, _IEEE_
 
